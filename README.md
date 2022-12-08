@@ -32,7 +32,7 @@ I'm also working👩‍💻 as a Sales Operations Analyst in COMPUCOM since the 
 ⚡️ I have Thalassophobia (fear of large bodies of water) but I swam an open water competition a year before COVID being one of the biggest achievements for me.
 
 
-## 🔗 The websites around me
+## 🔗 The websites that surround me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://okamisuarez.github.io/Portfolio/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okami97backdev/)
@@ -40,37 +40,18 @@ I'm also working👩‍💻 as a Sales Operations Analyst in COMPUCOM since the 
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+HTML
+
+CSS
+
+SCSS
+
+Javascript
+
+SQL [In progress]
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
-## Related
+## Projects
 
 Here are some related projects
 
