@@ -2,6 +2,7 @@
 <h3 align="center">Web Developer and Sales Operations Analyst, pleased to meet you, I hope you have a nice waltz around my websites.</h3>
 
 <h2 align="left">🚀 Okami?</h2>
+
 💬"Where is Okami? 
 
 💬Who is Okami? 
@@ -13,6 +14,7 @@ Actually I'm a Web Developer student 🧠 in progress who is working hard to do 
 I'm also working 👩‍💻 as a Sales Operations Analyst in COMPUCOM since the second half of 2022
 
 <h2 align="left">Curiousities about me</h2>
+
 👩‍💻 Game lover
 
 🧠 Bachelors in Sports Science
@@ -43,22 +45,26 @@ I'm also working 👩‍💻 as a Sales Operations Analyst in COMPUCOM since the
 
 ## 💬 Languages and tools
 <p align="center"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="125" height="125"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="125" height="125"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="125" height="125"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="125" height="125"/> </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="125" height="125"/> </a> </p>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="115" height="115"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="125" height="115"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="115" height="115"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="115" height="115"/> </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="115" height="115"/> </a> </p>
 
 ## 💬 Some stats 👩‍💻
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okamisuarez&show_icons=true&locale=en&layout=compact" alt="okamisuarez" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okamisuarez&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okamisuarez&show_icons=true&locale=en" alt="okamisuarez" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okamisuarez&" alt="okamisuarez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okamisuarez&show_icons=true&locale=en&theme=dark" alt="okamisuarez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okamisuarez&theme=dark" alt="okamisuarez" /></p>
 
 ## Ideas that ran out from my brain to the code 🧠
 
 Here are some related projects
+    
+ <p align="left">
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
+<!--     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+    
+  </p>
