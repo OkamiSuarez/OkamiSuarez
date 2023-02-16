@@ -3,11 +3,7 @@
 
 <h2 align="left">🚀 Okami?</h2>
 
-💬"Where is Okami? 
-
-💬Who is Okami? 
-
-💬 I have a better question: WHY is Okami?
+💬"Where is Okami?  -Who is Okami?  -I have a better question: WHY is Okami?
 
 Actually I'm a Web Developer student 🧠 in progress who is working hard to do his best and accomplish goals inside the IT world 🌱
 
