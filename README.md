@@ -5,7 +5,7 @@
 
 💬"Where is Okami?  -Who is Okami?  -I have a better question: WHY is Okami?
 
-Actually I'm a Web Developer student 🧠 in progress who is working hard to do his best and accomplish goals inside the IT world 🌱
+Actually I'm a Software & Network Engineer student 🧠 in progress who is working hard to do his best and accomplish goals inside the IT world 🌱
 
 I'm also working 👩‍💻 as a Sales Operations Analyst in COMPUCOM since the second half of 2022
 
