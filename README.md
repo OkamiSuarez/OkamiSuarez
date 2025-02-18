@@ -7,7 +7,7 @@
 
 Actually I'm a Software & Network Engineer student 🧠 in progress who is working hard to do his best and accomplish goals inside the IT world 🌱
 
-I'm also working 👩‍💻 as a Sales Operations Analyst in COMPUCOM since the second half of 2022
+I'm also working 👩‍💻 as a OEM Orders Analyst in Nutanix since the second half of 2023
 
 <h2 align="left">Curiousities about me</h2>
 
