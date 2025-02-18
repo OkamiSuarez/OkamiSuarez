@@ -81,12 +81,12 @@ I'm also working 👩‍💻 as a OEM Orders Analyst in Nutanix since the second
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okamisuarez&theme=dark" alt="okamisuarez" /></p>
 
-## Ideas that ran out from my brain to the code 🧠
+<!--   ## Ideas that ran out from my brain to the code 🧠
 
 Here are some related projects
     
  <p align="left">
 
-<!--     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 
     
-  </p>
+  </p> -->
