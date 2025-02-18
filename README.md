@@ -58,13 +58,16 @@ I'm also working 👩‍💻 as a OEM Orders Analyst in Nutanix since the second
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="115" height="115"/> </a> 
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="115" height="115"/> </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="115" height="115"/> </a> 
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="115" height="115"/> </a> 
+</p>
+
+<p align="center"> 
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="115" height="115"/> </a> 
 </p>
 
 ## 💬 Future Learnings 
 
 <p align="center"> 
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="115" height="115"/> </a> 
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="115" height="115"/> </a> 
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="115" height="115"/> </a> 
         <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="115" height="115"/> </a> 
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="115" height="115"/> </a> 
